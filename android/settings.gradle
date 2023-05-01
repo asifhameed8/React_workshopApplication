@@ -1,0 +1,3 @@
+rootProject.name = 'YTViewer'
+
+include ':app'
